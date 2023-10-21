@@ -15,3 +15,7 @@ int main(){
     catch(int myAge){
         cout<<"Access Denied";}
 }
+/*Output
+Enter age 17
+Not Eligible error
+*/
